@@ -1,0 +1,23 @@
+[
+  {
+  "name": "Secure DevSecOps Pipeline",
+  "desc": "Automated CI/CD infrastructure on Ubuntu using Jenkins. Integrated SonarQube for code quality and Trivy for container security scanning, ensuring a 100% secure deployment workflow.",
+  "image": "project2",
+  "category": "devops",
+  "links": {
+    "view": "https://github.com/AbdulKalamU/DevSecOps-3tier-pipeline",
+    "code": "https://github.com/AbdulKalamU/DevSecOps-3tier-pipeline"
+  }
+}
+  ,
+  {
+    "name": "Ai-tinerary",
+    "desc": "Smart AI-powered travel itinerary generator. Built using React and integrated with OpenAI API to provide personalized travel plans based on user preferences and budget.",
+    "image": "project1",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/AbdulKalamU/Ai-tinerary",
+      "code": "https://github.com/AbdulKalamU/Ai-tinerary"
+    }
+  }
+]
